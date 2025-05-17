@@ -7,14 +7,14 @@
 ## 🖼 
 
 <p align="center">
-  <img src="images/main.png" width="600"/>
+  <img src="images/main.png" width="1000"/>
 </p>
 
 ## 🖼 데모 미리보기
 
 <p align="center">
   <a href="https://youtu.be/BOV-tgWuJB4" target="_blank">
-    <img src="https://img.youtube.com/vi/BOV-tgWuJB4/0.jpg" width="600"/>
+    <img src="https://img.youtube.com/vi/BOV-tgWuJB4/0.jpg" width="800"/>
   </a>
 </p>
 
@@ -45,8 +45,8 @@
 ## 🎨 서비스 목적 및 배경
 
 <p align="center">
-  <img src="images/service1.png" width="400"/>
-  <img src="images/service2.png" width="400"/>
+  <img src="images/service1.png" width="1000"/>
+  <img src="images/service2.png" width="1000"/>
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ## 🛠 개발 과정
 
 <p align="center">
-  <img src="images/develop.png" width="600"/>
+  <img src="images/develop.png" width="1000"/>
 </p>
 
 ---
@@ -86,7 +86,7 @@
 ### 4단계 : 시·청각 기반의 공감각적 VR 공간 감상
 
 <p align="center">
-  <img src="images/space.png" width="600"/>
+  <img src="images/space.png" width="1000"/>
 </p>
 
 - Overlay Passthrough 및 맵 오브젝트 페이드로 VR 환경 자연스럽게 활성화
@@ -99,8 +99,8 @@
 ## 🔍 유저 테스트
 
 <p align="center">
-  <img src="images/usertest1.png" width="400"/>
-  <img src="images/usertest2.png" width="400"/>
+  <img src="images/usertest1.png" width="1000"/>
+  <img src="images/usertest2.png" width="1000"/>
 </p>
 
 ---
